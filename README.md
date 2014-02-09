@@ -10,7 +10,7 @@ The purpose of this lab is to create a single bit adder with the proper sum and 
 ![alt text] (https://raw.github.com/CassieMcPeek/ECE281_Lab2/master/TruthTable.JPG "Truth Table")
 
 # Schematic
-![alt text] (https://raw.github.com/CassieMcPeek/ECE281_Lab2/master/Lab2_Add_Sub_Schematic.sch "Schematic")
+![alt text] (https://raw.github.com/CassieMcPeek/ECE281_Lab2/master/Lab2_Add_Sub_Schematic.JPG "Schematic")
 
 # Testbench Output
-![alt text] (https://raw.github.com/CassieMcPeek/ECE281_Lab2/master/Lab2_Add_Sub_Schematic.JPG "Output")
+![alt text] (https://raw.github.com/CassieMcPeek/ECE281_Lab2/master/Lab2_Add_Sub_Screenshot.JPG "Output")
