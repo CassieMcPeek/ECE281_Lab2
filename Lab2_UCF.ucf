@@ -1,0 +1,17 @@
+Net "Ain<0>" LOC = "R17";
+Net "Ain<1>" LOC = "N17";
+Net "Ain<2>" LOC = "L13";
+Net "Ain<3>" LOC = "L14";
+Net "Bin<0>" LOC = "K17";
+Net "Bin<1>" LOC = "K18";
+Net "Bin<2>" LOC = "H18";
+Net "Bin<3>" LOC = "G18";
+
+Net "Sum<0>" LOC = "K14";
+Net "Sum<1>" LOC = "K15";
+Net "Sum<2>" LOC = "J15";
+Net "Sum<3>" LOC = "J14";
+
+Net "Cout" LOC = "P15";
+
+Net "Cin" LOC = "H13";
